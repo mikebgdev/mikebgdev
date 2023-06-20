@@ -51,8 +51,3 @@ And some more...
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikebgdev&theme=vue-dark&hide_border=true)<br>
-
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=mikebgdev&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&#41;)
-
-
-
