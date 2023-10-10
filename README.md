@@ -1,13 +1,12 @@
-# ¡Hello 👋 I'm Michael Ballester!
-I'm a Software Developer with experience developing web pages and APIs, mainly in the Backend but also in the Frontend.
+# Hello there! 👋 I'm Michael Ballester!
 
-In my career I have worked on various web development projects, from static web pages to complex web applications consuming APIs. My preferred technologies are Symfony, PHP and MySQL.
+I'm a Software Developer with expertise in web development, specializing in both Backend and Frontend. With a strong background in Symfony, PHP, and MySQL, I have successfully delivered various web projects, ranging from static web pages to complex applications consuming APIs.
 
-In addition, I have also worked on the development of Android mobile applications and on an ERP with Delphi.
+During my career, I have also gained experience in Android mobile application development and worked on an ERP system using Delphi.
 
-I like reading about programming and technology, as well as looking for new opportunities to continue learning and growing as a developer.
+I have a passion for continuous learning and growth, and I enjoy staying up-to-date with the latest programming trends and technologies. I'm always seeking new opportunities to expand my knowledge and enhance my skills.
 
-If you have any questions or want to know more about my work, feel free to contact me! 💬💻
+If you have any questions or would like to know more about my work, feel free to reach out to me. Let's connect and explore the possibilities of collaborating together! 💬💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelballester/)
@@ -42,12 +41,13 @@ And some more...
 
 ## 💬 Soft Skills:
 
-🤝 Teamwork <br>
+🤝 Teamwork & Collaboration <br>
 🤔 Decision making <br>
-📖 Self-learning ability <br>
-🧩 Problem resolution <br>
-👩‍💼 Responsibility and organization at work <br>
+📖 Adaptability & Continuous Learning <br>
+🧩 Problem-Solving <br>
+👩‍💼 Organization & Responsibility <br>
 🎯 Orientation to results <br>
+⚡ Quality Focus & Continuous Improvement <br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikebgdev&theme=vue-dark&hide_border=true)<br>
