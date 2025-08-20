@@ -54,15 +54,16 @@ I enjoy building scalable systems, integrating APIs, and maintaining quality thr
 And some more...
 
 
-## 💬 Soft Skills:
+## 💬 Soft Skills
 
-🤝 Teamwork & Collaboration <br>
-🤔 Decision making <br>
-📖 Adaptability & Continuous Learning <br>
-🧩 Problem-Solving <br>
-👩‍💼 Organization & Responsibility <br>
-🎯 Orientation to results <br>
-⚡ Quality Focus & Continuous Improvement <br>
+🤝 Teamwork & Collaboration  <br>
+📚 Adaptability & Continuous Learning  <br>
+📂 Organization & Responsibility  <br>
+⚡ Quality Focus & Continuous Improvement  <br>
+🎯 Results-Oriented Mindset  <br>
+🧩 Problem-Solving  <br>
+🧭 Decision-Making  <br>
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikebgdev&show_icons=true&count_private=true&theme=vue-dark&hide_border=true)
