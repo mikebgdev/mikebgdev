@@ -1,12 +1,15 @@
 # Hello there! 👋 I'm Michael Ballester!
 
-I'm a Software Developer with expertise in web development, specializing in both Backend and Frontend. With a strong background in Symfony, PHP, and MySQL, I have successfully delivered various web projects, ranging from static web pages to complex applications consuming APIs.
+# 👋 Hi, I'm Michael Ballester  
 
-During my career, I have also gained experience in Android mobile application development and worked on an ERP system using Delphi.
+💻 **Software Developer | Backend focus**  
 
-I have a passion for continuous learning and growth, and I enjoy staying up-to-date with the latest programming trends and technologies. I'm always seeking new opportunities to expand my knowledge and enhance my skills.
+I work mainly with **Symfony, PHP and MySQL**, applying **hexagonal architecture, CQRS, microservices** and SOLID principles.  
+I enjoy building scalable systems, integrating APIs, and maintaining quality through unit testing and clean code practices.  
 
-If you have any questions or would like to know more about my work, feel free to reach out to me. Let's connect and explore the possibilities of collaborating together! 💬💻
+⚙️ Currently exploring **virtualization with Proxmox** and experimenting with **AI applications in software development**.  
+📚 Motivated by continuous learning, collaboration, and constant improvement.  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelballester/)
