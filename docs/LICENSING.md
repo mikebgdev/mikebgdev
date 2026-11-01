@@ -1,14 +1,17 @@
-# Revisión de licencia
+# Licencia y atribuciones
 
- Recomendación a 2026-11-01: **CC-BY-4.0 para texto propio, si se desea permitir su reutilización**.
+Decisión aprobada por el titular el 2026-11-01: **CC-BY-4.0**.
 
- Repositorio del perfil, sin aplicación compilable. La licencia debe limitarse al texto propio; badges, marcas, fotografías y servicios enlazados conservan sus condiciones.
+Texto de la licencia en [LICENSE](../LICENSE). Las nuevas aportaciones propias se atribuyen a Michael Ballester Granero; se conservan los avisos de copyright existentes.
 
- Esta revisión no concede una licencia nueva. Se conservan las licencias y atribuciones existentes. La decisión de licencia del código propio y la titularidad de los materiales pendientes deben confirmarse antes de una publicación pública.
+## Alcance
 
- ## Referencias
+CC-BY-4.0 para el texto y documentación originales del perfil de Michael Ballester Granero. Atribuir al autor y enlazar el repositorio original y la licencia, indicando los cambios. Badges, marcas, fotografías, servicios enlazados y sus contenidos no se incluyen en esta concesión.
 
- - [MIT, texto oficial de OSI](https://opensource.org/license/mit)
- - [Apache-2.0, texto oficial](https://www.apache.org/licenses/LICENSE-2.0)
- - [GNU, elección de licencia según el propósito](https://www.gnu.org/licenses/license-recommendations.html)
- - [Creative Commons: software, documentación y arte son ámbitos distintos](https://creativecommons.org/faq/)
+La concesión se limita a los derechos que el titular puede otorgar sobre sus aportaciones. No se eliminan ni sustituyen licencias, avisos o atribuciones de dependencias, plantillas y otros autores. Las concesiones anteriores conservan su efecto.
+
+## Distribución
+
+Conservar los avisos y textos de licencia aplicables al distribuir código o binarios. Los recursos con condiciones separadas deben identificarse y distribuirse conforme a ellas. La elección de licencia no cambia la visibilidad del repositorio ni publica datos privados.
+
+Referencia: [texto oficial de CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
